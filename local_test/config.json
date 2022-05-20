@@ -1,0 +1,16 @@
+{
+    "cpu_set": [ 
+	4,8
+    ],
+    "memtable_size_set": [
+        "64*1024*1024",
+        "128*1024*1024"
+    ],
+    "storage_paths": [
+       {
+            "path": "/media/RocksDB/shard_test/playground",
+            "media_type": "NVMeSSD"
+        }
+        
+    ]
+}

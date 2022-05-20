@@ -1,0 +1,7 @@
+RocksDB:    version 6.4
+Date:       Thu May 19 00:51:42 2022
+CPU:        24 * Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
+CPUCache:   15360 KB
+num reads to do 1000000
+Received signal 11 (Segmentation fault)
+#0   /media/RocksDB/shard_test/shard_migration_rocksdb/migration_bench(+0x69645) [0x564189ba1645] 
